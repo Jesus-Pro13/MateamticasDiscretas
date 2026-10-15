@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/emman/OneDrive/Documents/programas",
-      "program": "c:/Users/emman/OneDrive/Documents/programas/build/Debug/outDebug",
+      "cwd": "c:/Users/emman/OneDrive/Documents/programas/AlgoritmoBurbuja",
+      "program": "c:/Users/emman/OneDrive/Documents/programas/AlgoritmoBurbuja/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
